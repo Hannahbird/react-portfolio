@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Hannahbird/react-portfolio/static/css/main.fe21f97e.css",
+    "main.js": "/Hannahbird/react-portfolio/static/js/main.74d5b462.js",
+    "static/js/787.a2cb61a6.chunk.js": "/Hannahbird/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/moviemate.png": "/Hannahbird/react-portfolio/static/media/moviemate.cf5139ff4b5408e7c1f4.png",
+    "static/media/hospitium.png": "/Hannahbird/react-portfolio/static/media/hospitium.f325981560fe1adad10c.png",
+    "static/media/invent.jpeg": "/Hannahbird/react-portfolio/static/media/invent.88bfb9e6fb25d773717f.jpeg",
+    "static/media/hannahBrownsonResume.docx": "/Hannahbird/react-portfolio/static/media/hannahBrownsonResume.e01bac3c95fb2cbdb1d9.docx",
+    "index.html": "/Hannahbird/react-portfolio/index.html",
+    "main.fe21f97e.css.map": "/Hannahbird/react-portfolio/static/css/main.fe21f97e.css.map",
+    "main.74d5b462.js.map": "/Hannahbird/react-portfolio/static/js/main.74d5b462.js.map",
+    "787.a2cb61a6.chunk.js.map": "/Hannahbird/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe21f97e.css",
+    "static/js/main.74d5b462.js"
+  ]
+}
